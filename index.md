@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_07INyPv1ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/milityan?ref_src=twsrc%5Etfw">Tweets by milityan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ninin?ref_src=twsrc%5Etfw">Tweets by ninin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
 みぃちゃんです
